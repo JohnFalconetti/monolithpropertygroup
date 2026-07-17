@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Monolith Property Group">
+  <defs>
+    <linearGradient id="mg" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0" stop-color="#ecd191"/>
+      <stop offset="0.55" stop-color="#c99c58"/>
+      <stop offset="1" stop-color="#9a7844"/>
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="22" fill="#191b1d"/>
+  <polygon points="41,78 59,78 55.5,38 44.5,38" fill="url(#mg)"/>
+  <polygon points="44.5,38 55.5,38 50,22" fill="url(#mg)"/>
+  <polygon points="43.2,56 56.8,56 56.8,59 43.2,59" fill="#a67c3e"/>
+</svg>
