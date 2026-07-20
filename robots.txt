@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://monolithpropertygroup.com/sitemap.xml
